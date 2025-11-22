@@ -181,6 +181,13 @@ Customize search parameters in [`scripts/config.yaml`](scripts/config.yaml):
 - Trusted channels and authors
 - Content limits per category
 
+### Documentation
+
+For detailed setup and troubleshooting:
+- 📖 [Quick Start Guide](auto/QUICKSTART.md) - 8-minute setup walkthrough
+- 🔧 [Setup Guide](auto/SETUP.md) - Detailed configuration instructions
+- 🐛 [Troubleshooting](auto/TROUBLESHOOTING.md) - Common issues and solutions
+
 ---
 
 ## 🏷️ Topics Covered
