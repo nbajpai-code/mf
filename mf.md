@@ -230,6 +230,24 @@ This is a living document. Content is curated based on:
 
 `#AI` `#MachineLearning` `#DeepLearning` `#SoftwareEngineering` `#SystemDesign` `#Leadership` `#Innovation` `#Research` `#Technology` `#Learning`
 
+
+### 📄 Recent Research Papers
+#### [Dataset Distillation for Pre-Trained Self-Supervised Vision Models](http://arxiv.org/abs/2511.16674v1)
+- **Authors**: George Cazenavette, Antonio Torralba, Vincent Sitzmann
+- **Published**: 2025-11-20
+- **Summary**: The task of dataset distillation aims to find a small set of synthetic images such that training a model on them reproduces the performance of the same model trained on a much larger dataset of real s...
+
+#### [Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation](http://arxiv.org/abs/2511.16671v1)
+- **Authors**: Ziyu Guo, Renrui Zhang, Hongyu Li et al.
+- **Published**: 2025-11-20
+- **Summary**: Recent advances in visual generation have increasingly explored the integration of reasoning capabilities. They incorporate textual reasoning, i.e., think, either before (as pre-planning) or after (as...
+
+#### [Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter](http://arxiv.org/abs/2511.16665v1)
+- **Authors**: Qinghao Hu, Shang Yang, Junxian Guo et al.
+- **Published**: 2025-11-20
+- **Summary**: The emergence of Large Language Models (LLMs) with strong reasoning capabilities marks a significant milestone, unlocking new frontiers in complex problem-solving. However, training these reasoning mo...
+
+
 ---
 
 **Last Updated**: 2025-11-22
