@@ -136,6 +136,53 @@ Have suggestions for mental food? We welcome contributions!
 
 ---
 
+## 🤖 Automated Content Discovery
+
+This repository uses **GitHub Actions** to automatically discover and suggest new high-quality content every week!
+
+### How It Works
+
+1. **Weekly Scan**: Every Monday at 9 AM UTC, the workflow runs automatically
+2. **Multi-Source Search**: Searches YouTube, arXiv, and Hacker News for new content
+3. **Quality Filtering**: Only suggests content that meets strict quality criteria:
+   - YouTube: 10K+ views from trusted channels
+   - arXiv: Recent papers in AI/ML categories
+   - Hacker News: 100+ score on technical topics
+4. **Automated PR**: Creates a pull request with suggested additions
+5. **Manual Review**: Maintainers review and merge quality content
+
+### Setup (For Repository Maintainers)
+
+To enable automated content discovery:
+
+1. **Get YouTube API Key**:
+   - Go to [Google Cloud Console](https://console.cloud.google.com/)
+   - Create a new project or select existing
+   - Enable YouTube Data API v3
+   - Create credentials (API Key)
+   - Copy the API key
+
+2. **Add Repository Secret**:
+   - Go to repository Settings → Secrets and variables → Actions
+   - Click "New repository secret"
+   - Name: `YOUTUBE_API_KEY`
+   - Value: Your YouTube API key
+   - Click "Add secret"
+
+3. **Manual Trigger** (Optional):
+   - Go to Actions tab → "Update Mental Food Content"
+   - Click "Run workflow" to trigger manually
+
+### Configuration
+
+Customize search parameters in [`scripts/config.yaml`](scripts/config.yaml):
+- Search keywords and topics
+- Quality thresholds (views, scores, age)
+- Trusted channels and authors
+- Content limits per category
+
+---
+
 ## 🏷️ Topics Covered
 
 `AI` • `Machine Learning` • `Deep Learning` • `Software Engineering` • `System Design` • `Technology Leadership` • `Research` • `Innovation` • `Computer Science` • `Mathematics` • `Emerging Tech` • `Product Design`

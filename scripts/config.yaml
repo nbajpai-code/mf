@@ -1,0 +1,75 @@
+# Content Discovery Configuration
+
+# Search Keywords
+keywords:
+  ai_ml:
+    - "artificial intelligence"
+    - "machine learning"
+    - "deep learning"
+    - "neural networks"
+    - "transformers"
+    - "large language models"
+    - "GPT"
+    - "computer vision"
+    - "reinforcement learning"
+  
+  engineering:
+    - "software engineering"
+    - "system design"
+    - "distributed systems"
+    - "microservices"
+    - "cloud architecture"
+    - "DevOps"
+    - "programming languages"
+  
+  leadership:
+    - "technology leadership"
+    - "startup"
+    - "product management"
+    - "engineering management"
+    - "innovation"
+
+# Quality Thresholds
+quality:
+  youtube:
+    min_views: 10000
+    min_likes_ratio: 0.95  # likes / (likes + dislikes)
+    max_age_days: 90
+  
+  arxiv:
+    min_citations: 10
+    max_age_days: 90
+    categories:
+      - "cs.AI"
+      - "cs.LG"
+      - "cs.CL"
+      - "cs.CV"
+      - "cs.SE"
+  
+  hackernews:
+    min_score: 100
+    max_age_days: 30
+
+# Trusted Sources
+trusted_channels:
+  - "Lex Fridman"
+  - "Stanford Online"
+  - "MIT OpenCourseWare"
+  - "DeepMind"
+  - "OpenAI"
+  - "Google TechTalks"
+  - "Microsoft Research"
+  - "Two Minute Papers"
+
+trusted_authors:
+  - "Yann LeCun"
+  - "Geoffrey Hinton"
+  - "Yoshua Bengio"
+  - "Andrew Ng"
+  - "Andrej Karpathy"
+  - "Ilya Sutskever"
+
+# Content Limits
+limits:
+  max_items_per_run: 10
+  max_items_per_category: 3
