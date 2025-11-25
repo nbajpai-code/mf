@@ -248,8 +248,37 @@ This is a living document. Content is curated based on:
 - **Summary**: The emergence of Large Language Models (LLMs) with strong reasoning capabilities marks a significant milestone, unlocking new frontiers in complex problem-solving. However, training these reasoning mo...
 
 
+
+### 📄 Recent Research Papers
+#### [Downscaling Intelligence: Exploring Perception and Reasoning Bottlenecks in Small Multimodal Models](http://arxiv.org/abs/2511.17487v1)
+- **Authors**: Mark Endo, Serena Yeung-Levy
+- **Published**: 2025-11-21
+- **Summary**: Scaling up multimodal models has enabled remarkable advances in visual understanding and reasoning, but practical demands call for smaller, efficient systems. In this work, we conduct a principled ana...
+
+#### [An Artificial Intelligence Framework for Measuring Human Spine Aging Using MRI](http://arxiv.org/abs/2511.17485v1)
+- **Authors**: Roozbeh Bazargani, Saqib Abdullah Basar, Daniel Daly-Grafstein et al.
+- **Published**: 2025-11-21
+- **Summary**: The human spine is a complex structure composed of 33 vertebrae. It holds the body and is important for leading a healthy life. The spine is vulnerable to age-related degenerations that can be identif...
+
+#### [Enhancing Quranic Learning: A Multimodal Deep Learning Approach for Arabic Phoneme Recognition](http://arxiv.org/abs/2511.17477v1)
+- **Authors**: Ayhan Kucukmanisa, Derya Gelmez, Sukru Selim Calik et al.
+- **Published**: 2025-11-21
+- **Summary**: Recent advances in multimodal deep learning have greatly enhanced the capability of systems for speech analysis and pronunciation assessment. Accurate pronunciation detection remains a key challenge i...
+
+
+### 🔥 Trending Technical Content
+#### [Fran Sans – font inspired by San Francisco light rail displays](https://emilysneddon.com/fran-sans-essay)
+- **HN Score**: 875 | **Comments**: 117
+
+#### [µcad: New open source programming language that can generate 2D sketches and 3D](https://microcad.xyz/)
+- **HN Score**: 206 | **Comments**: 55
+
+#### [Iowa City made its buses free. Traffic cleared, and so did the air](https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html)
+- **HN Score**: 367 | **Comments**: 414
+
+
 ---
 
-**Last Updated**: 2025-11-22
+**Last Updated**: 2025-11-24
 
 **Maintained by**: Mental Food Enthusiasts 🧠✨
