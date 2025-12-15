@@ -277,8 +277,37 @@ This is a living document. Content is curated based on:
 - **HN Score**: 367 | **Comments**: 414
 
 
+
+### 📄 Recent Research Papers
+#### [Particulate: Feed-Forward 3D Object Articulation](http://arxiv.org/abs/2512.11798v1)
+- **Authors**: Ruining Li, Yuxin Yao, Chuanxia Zheng et al.
+- **Published**: 2025-12-12
+- **Summary**: We present Particulate, a feed-forward approach that, given a single static 3D mesh of an everyday object, directly infers all attributes of the underlying articulated structure, including its 3D part...
+
+#### [Super Suffixes: Bypassing Text Generation Alignment and Guard Models Simultaneously](http://arxiv.org/abs/2512.11783v1)
+- **Authors**: Andrew Adiletta, Kathryn Adiletta, Kemal Derya et al.
+- **Published**: 2025-12-12
+- **Summary**: The rapid deployment of Large Language Models (LLMs) has created an urgent need for enhanced security and privacy measures in Machine Learning (ML). LLMs are increasingly being used to process untrust...
+
+#### [Agile Flight Emerges from Multi-Agent Competitive Racing](http://arxiv.org/abs/2512.11781v1)
+- **Authors**: Vineet Pasumarti, Lorenzo Bianchi, Antonio Loquercio
+- **Published**: 2025-12-12
+- **Summary**: Through multi-agent competition and the sparse high-level objective of winning a race, we find that both agile flight (e.g., high-speed motion pushing the platform to its physical limits) and strategy...
+
+
+### 🔥 Trending Technical Content
+#### [Hashcards: A plain-text spaced repetition system](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
+- **HN Score**: 319 | **Comments**: 145
+
+#### [AI agents are starting to eat SaaS](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+- **HN Score**: 119 | **Comments**: 140
+
+#### [Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
+- **HN Score**: 177 | **Comments**: 141
+
+
 ---
 
-**Last Updated**: 2025-11-24
+**Last Updated**: 2025-12-15
 
 **Maintained by**: Mental Food Enthusiasts 🧠✨
