@@ -334,8 +334,37 @@ Study Foundational Papers: Deeply understand the key papers that laid the founda
 Implement and Experiment: Building your own LLMs or experimenting with existing ones can provide a hands-on understanding of how they work. Use frameworks like TensorFlow or PyTorch to implement different architectures and techniques.
 ## Read Explanatory Materials: 
 Look for blog posts, tutorials, and other materials that explain the underlying technologies in a clear and accessible way. Many researchers and practitioners publish excellent explanations of complex concepts.
+
+### 📄 Recent Research Papers
+#### [Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications](http://arxiv.org/abs/2512.22113v1)
+- **Authors**: Shengkun Cui, Rahul Krishna, Saurabh Jha et al.
+- **Published**: 2025-12-26
+- **Summary**: Cloud incidents pose major operational challenges in production, with unresolved production cloud incidents cost on average over $2M per hour. Prior research identifies code- and configuration-related...
+
+#### [Hybrid Deep Reinforcement Learning for Joint Resource Allocation in Multi-Active RIS-Aided Uplink Communications](http://arxiv.org/abs/2512.22107v1)
+- **Authors**: Mohamed Shalma, Engy Aly Maher, Ahmed El-Mahdy
+- **Published**: 2025-12-26
+- **Summary**: Active Reconfigurable Intelligent Surfaces (RIS) are a promising technology for 6G wireless networks. This paper investigates a novel hybrid deep reinforcement learning (DRL) framework for resource al...
+
+#### [Pruning as a Game: Equilibrium-Driven Sparsification of Neural Networks](http://arxiv.org/abs/2512.22106v1)
+- **Authors**: Zubair Shah, Noaman Khan
+- **Published**: 2025-12-26
+- **Summary**: Neural network pruning is widely used to reduce model size and computational cost. Yet, most existing methods treat sparsity as an externally imposed constraint, enforced through heuristic importance ...
+
+
+### 🔥 Trending Technical Content
+#### [Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB](https://github.com/HarryR/z80ai)
+- **HN Score**: 107 | **Comments**: 30
+
+#### [You can make up HTML tags](https://maurycyz.com/misc/make-up-tags/)
+- **HN Score**: 218 | **Comments**: 90
+
+#### [Software engineers should be a little bit cynical](https://www.seangoedecke.com/a-little-bit-cynical/)
+- **HN Score**: 188 | **Comments**: 129
+
+
 ---
 
-**Last Updated**: 2025-12-15
+**Last Updated**: 2025-12-29
 
 **Maintained by**: Mental Food Enthusiasts 🧠✨
