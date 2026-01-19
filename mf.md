@@ -363,8 +363,37 @@ Look for blog posts, tutorials, and other materials that explain the underlying 
 - **HN Score**: 188 | **Comments**: 129
 
 
+
+### 📄 Recent Research Papers
+#### [Do explanations generalize across large reasoning models?](http://arxiv.org/abs/2601.11517v1)
+- **Authors**: Koyena Pal, David Bau, Chandan Singh
+- **Published**: 2026-01-16
+- **Summary**: Large reasoning models (LRMs) produce a textual chain of thought (CoT) in the process of solving a problem, which serves as a potentially powerful tool to understand the problem by surfacing a human-r...
+
+#### [Building Production-Ready Probes For Gemini](http://arxiv.org/abs/2601.11516v1)
+- **Authors**: János Kramár, Joshua Engels, Zheng Wang et al.
+- **Published**: 2026-01-16
+- **Summary**: Frontier language model capabilities are improving rapidly. We thus need stronger mitigations against bad actors misusing increasingly powerful systems. Prior work has shown that activation probes may...
+
+#### [Capacity Constraints Make Admissions Processes Less Predictable](http://arxiv.org/abs/2601.11513v1)
+- **Authors**: Evan Dong, Nikhil Garg, Sarah Dean
+- **Published**: 2026-01-16
+- **Summary**: Machine learning models are often used to make predictions about admissions process outcomes, such as for colleges or jobs. However, such decision processes differ substantially from the conventional ...
+
+
+### 🔥 Trending Technical Content
+#### [Show HN: I quit coding years ago. AI brought me back](https://calquio.com/finance/compound-interest)
+- **HN Score**: 115 | **Comments**: 94
+
+#### [High-speed train collision in Spain kills at least 39](https://www.bbc.com/news/articles/cedw6ylpynyo)
+- **HN Score**: 130 | **Comments**: 108
+
+#### [Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used](https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/)
+- **HN Score**: 311 | **Comments**: 88
+
+
 ---
 
-**Last Updated**: 2025-12-29
+**Last Updated**: 2026-01-19
 
 **Maintained by**: Mental Food Enthusiasts 🧠✨
