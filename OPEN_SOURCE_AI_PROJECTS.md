@@ -103,3 +103,27 @@ Get up and running with Llama 3, Mistral, Gemma, and other large language models
 A high-throughput and memory-efficient inference and serving engine for LLMs.
 *   **Focus**: Production inference.
 *   **Repo**: [vllm-project/vllm](https://github.com/vllm-project/vllm)
+
+---
+
+## 📊 Classic ML & Big Data AI
+
+### **H2O.ai**
+An open-source, distributed in-memory machine learning platform with linear scalability. Known for its AutoML capabilities.
+*   **Focus**: AutoML, Enterprise ML.
+*   **Repo**: [h2oai/h2o-3](https://github.com/h2oai/h2o-3)
+
+### **Apache MXNet**
+A flexible and efficient deep learning framework that supports both imperative and symbolic programming. (Incubating).
+*   **Focus**: Deep Learning, Scalability.
+*   **Repo**: [apache/mxnet](https://github.com/apache/mxnet)
+
+### **Apache Spark MLlib**
+Scalable machine learning library built on top of Apache Spark, bringing ML to big data processing.
+*   **Focus**: Big Data ML, Clustering, Regression.
+*   **Repo**: [apache/spark](https://github.com/apache/spark)
+
+### **Weka**
+A collection of machine learning algorithms for data mining tasks, written in Java. A classic tool for educational and research purposes.
+*   **Focus**: Data Mining, Education.
+*   **Repo**: [Waikato/weka-3.8](https://github.com/Waikato/weka-3.8)
