@@ -392,8 +392,37 @@ Look for blog posts, tutorials, and other materials that explain the underlying 
 - **HN Score**: 311 | **Comments**: 88
 
 
+
+### 📄 Recent Research Papers
+#### [VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation](http://arxiv.org/abs/2601.23286v1)
+- **Authors**: Hongyang Du, Junjie Ye, Xiaoyan Cong et al.
+- **Published**: 2026-01-30
+- **Summary**: While recent video diffusion models (VDMs) produce visually impressive results, they fundamentally struggle to maintain 3D structural consistency, often resulting in object deformation or spatial drif...
+
+#### [End-to-end Optimization of Belief and Policy Learning in Shared Autonomy Paradigms](http://arxiv.org/abs/2601.23285v1)
+- **Authors**: MH Farhadi, Ali Rabiee, Sima Ghafoori et al.
+- **Published**: 2026-01-30
+- **Summary**: Shared autonomy systems require principled methods for inferring user intent and determining appropriate assistance levels. This is a central challenge in human-robot interaction, where systems must b...
+
+#### [IRL-DAL: Safe and Adaptive Trajectory Planning for Autonomous Driving via Energy-Guided Diffusion Models](http://arxiv.org/abs/2601.23266v1)
+- **Authors**: Seyed Ahmad Hosseini Miangoleh, Amin Jalal Aghdasian, Farzaneh Abdollahi
+- **Published**: 2026-01-30
+- **Summary**: This paper proposes a novel inverse reinforcement learning framework using a diffusion-based adaptive lookahead planner (IRL-DAL) for autonomous vehicles. Training begins with imitation from an expert...
+
+
+### 🔥 Trending Technical Content
+#### [My iPhone 16 Pro Max produces garbage output when running MLX LLMs](https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/)
+- **HN Score**: 282 | **Comments**: 129
+
+#### [Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw)
+- **HN Score**: 359 | **Comments**: 122
+
+#### [Adventure Game Studio: OSS software for creating adventure games](https://www.adventuregamestudio.co.uk/)
+- **HN Score**: 319 | **Comments**: 67
+
+
 ---
 
-**Last Updated**: 2026-01-19
+**Last Updated**: 2026-02-02
 
 **Maintained by**: Mental Food Enthusiasts 🧠✨
