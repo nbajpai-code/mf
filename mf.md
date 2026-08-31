@@ -421,8 +421,31 @@ Look for blog posts, tutorials, and other materials that explain the underlying 
 - **HN Score**: 319 | **Comments**: 67
 
 
+
+### 📄 Recent Research Papers
+#### [Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning](http://arxiv.org/abs/2608.28578v1)
+- **Authors**: Nan Wang, Mohit Yadav, Jonathan Wulff et al.
+- **Published**: 2026-08-28
+- **Summary**: Tendon-driven hands are anthropomorphic, and moving the actuators off the joints is what makes a hand of this capability affordable to build. Two effects produce that saving. Routing force through a c...
+
+#### [Learning a Size-Weight Frontier for Synthetic-Augmented Inference](http://arxiv.org/abs/2608.28576v1)
+- **Authors**: Chengpiao Huang, Kaizheng Wang
+- **Published**: 2026-08-28
+- **Summary**: Synthetic data can improve statistical inference when real data are scarce, but naively treating synthetic samples as real data can introduce bias and lead to unreliable inference. We develop a genera...
+
+#### [A Formal Limitation on Learning Human Language From Textual Corpora](http://arxiv.org/abs/2608.28560v1)
+- **Authors**: Emily Cheng, Ryan Cotterell
+- **Published**: 2026-08-28
+- **Summary**: Can a listener recover what a speaker means from the form of an utterance alone? We answer this question information-theoretically, and for a listener given by any featurizer of text, including the hi...
+
+
+### 🔥 Trending Technical Content
+#### [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
+- **HN Score**: 199 | **Comments**: 74
+
+
 ---
 
-**Last Updated**: 2026-02-02
+**Last Updated**: 2026-08-31
 
 **Maintained by**: Mental Food Enthusiasts 🧠✨
