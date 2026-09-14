@@ -421,8 +421,20 @@ Look for blog posts, tutorials, and other materials that explain the underlying 
 - **HN Score**: 319 | **Comments**: 67
 
 
+
+### 🔥 Trending Technical Content
+#### [How to Write an Effective Software Design Document](https://refactoringenglish.com/excerpts/write-an-effective-design-doc/)
+- **HN Score**: 170 | **Comments**: 49
+
+#### [Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows](https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/)
+- **HN Score**: 170 | **Comments**: 91
+
+#### [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)
+- **HN Score**: 237 | **Comments**: 304
+
+
 ---
 
-**Last Updated**: 2026-02-02
+**Last Updated**: 2026-09-14
 
 **Maintained by**: Mental Food Enthusiasts 🧠✨
