@@ -421,8 +421,37 @@ Look for blog posts, tutorials, and other materials that explain the underlying 
 - **HN Score**: 319 | **Comments**: 67
 
 
+
+### 📄 Recent Research Papers
+#### [Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency](http://arxiv.org/abs/2609.31619v1)
+- **Authors**: Parsa Hosseini, Akasha Tigalappanavara, Sumit Nawathe et al.
+- **Published**: 2026-09-25
+- **Summary**: Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping me...
+
+#### [Statistical attribute alignment for black-box generative AI via output post-processing](http://arxiv.org/abs/2609.31607v1)
+- **Authors**: Kevin Jiang, Morgane Austern, Edgar Dobriban et al.
+- **Published**: 2026-09-25
+- **Summary**: Generative AI systems are increasingly used, but aligning their outputs with user requirements poses a continuing challenge. Here, we aim to ensure that the distribution of an attribute of an AI-gener...
+
+#### [Stacked Fluid Metasurfaces: Mutual-Coupling-Aware Modeling and Optimization](http://arxiv.org/abs/2609.31591v1)
+- **Authors**: Giovanni Iacovelli, Chandan Kumar Sheemar, Symeon Chatzinotas
+- **Published**: 2026-09-25
+- **Summary**: Stacked intelligent metasurfaces process the transmitted field layer by layer, and fluid antennas make the position of every radiator a design variable. Combined, they pack radiators at sub-wavelength...
+
+
+### 🔥 Trending Technical Content
+#### [Parley: Federated, decentralised chat that speaks plain IRC](https://git.mills.io/prologic/parley)
+- **HN Score**: 233 | **Comments**: 112
+
+#### [The problem is not AI code, but not knowing about system architecture or intent](https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/)
+- **HN Score**: 224 | **Comments**: 137
+
+#### [Nissan's third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/)
+- **HN Score**: 136 | **Comments**: 304
+
+
 ---
 
-**Last Updated**: 2026-02-02
+**Last Updated**: 2026-09-28
 
 **Maintained by**: Mental Food Enthusiasts 🧠✨
