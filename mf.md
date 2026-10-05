@@ -421,8 +421,34 @@ Look for blog posts, tutorials, and other materials that explain the underlying 
 - **HN Score**: 319 | **Comments**: 67
 
 
+
+### 📄 Recent Research Papers
+#### [Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis](http://arxiv.org/abs/2610.03717v1)
+- **Authors**: Keerthi Kaashyap, Dennis Anthony, Akshay Krishnan et al.
+- **Published**: 2026-10-02
+- **Summary**: This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geom...
+
+#### [4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes](http://arxiv.org/abs/2610.03715v1)
+- **Authors**: Ruihong Shen, Žiga Kovačič, Peter Kulits et al.
+- **Published**: 2026-10-02
+- **Summary**: We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents...
+
+#### [What Should World Models Forget? Stratified Retention for Continual Adaptation](http://arxiv.org/abs/2610.03713v1)
+- **Authors**: Nishit Anand, Ramani Duraiswami, Dinesh Manocha
+- **Published**: 2026-10-02
+- **Summary**: Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct in...
+
+
+### 🔥 Trending Technical Content
+#### [The technology to eradicate mosquito-borne disease exists](https://worksinprogress.co/issue/mosquitoes-are-a-choice/)
+- **HN Score**: 156 | **Comments**: 122
+
+#### [Powerless F1 drivers frustrated by Bahrain F1 software glitch](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/)
+- **HN Score**: 276 | **Comments**: 232
+
+
 ---
 
-**Last Updated**: 2026-02-02
+**Last Updated**: 2026-10-05
 
 **Maintained by**: Mental Food Enthusiasts 🧠✨
