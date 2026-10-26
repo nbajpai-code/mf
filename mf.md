@@ -421,8 +421,37 @@ Look for blog posts, tutorials, and other materials that explain the underlying 
 - **HN Score**: 319 | **Comments**: 67
 
 
+
+### 📄 Recent Research Papers
+#### [SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning](http://arxiv.org/abs/2610.32978v1)
+- **Authors**: Yuhan Liu, Lianhui Qin, Shenji Wan
+- **Published**: 2026-10-23
+- **Summary**: Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise s...
+
+#### [RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms](http://arxiv.org/abs/2610.32971v1)
+- **Authors**: Xi Chen, Fengqi Hu, Zeyu Shen et al.
+- **Published**: 2026-10-23
+- **Summary**: Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mecha...
+
+#### [DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection](http://arxiv.org/abs/2610.32969v1)
+- **Authors**: Amber Xie, Jiawei Fu, Xiaofeng Guo et al.
+- **Published**: 2026-10-23
+- **Summary**: Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and plac...
+
+
+### 🔥 Trending Technical Content
+#### [Birdwatching rewires the brain and slows cognitive decline](https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline)
+- **HN Score**: 319 | **Comments**: 130
+
+#### [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
+- **HN Score**: 859 | **Comments**: 750
+
+#### [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)
+- **HN Score**: 240 | **Comments**: 59
+
+
 ---
 
-**Last Updated**: 2026-02-02
+**Last Updated**: 2026-10-26
 
 **Maintained by**: Mental Food Enthusiasts 🧠✨
