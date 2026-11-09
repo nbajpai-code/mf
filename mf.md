@@ -421,8 +421,37 @@ Look for blog posts, tutorials, and other materials that explain the underlying 
 - **HN Score**: 319 | **Comments**: 67
 
 
+
+### 📄 Recent Research Papers
+#### [On Agentic Manipulation Policies](http://arxiv.org/abs/2611.09892v1)
+- **Authors**: Chen Chen, Omid Bagherieh, Naveen Nikamanth Appiah Balaji et al.
+- **Published**: 2026-11-06
+- **Summary**: Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such a...
+
+#### [CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse](http://arxiv.org/abs/2611.09891v1)
+- **Authors**: Peter Belcak, Greg Heinrich, Saurav Muralidharan et al.
+- **Published**: 2026-11-06
+- **Summary**: Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task h...
+
+#### [On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning](http://arxiv.org/abs/2611.09872v1)
+- **Authors**: Haoyu Wang, Ru Wang, Yuanyuan Wang et al.
+- **Published**: 2026-11-06
+- **Summary**: Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze ma...
+
+
+### 🔥 Trending Technical Content
+#### [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
+- **HN Score**: 288 | **Comments**: 172
+
+#### [Fold Epic Paper Airplanes](https://www.foldableflight.com)
+- **HN Score**: 638 | **Comments**: 107
+
+#### [Magenta solar panels may be agrivoltaics' cleverest trick yet](https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/)
+- **HN Score**: 160 | **Comments**: 65
+
+
 ---
 
-**Last Updated**: 2026-02-02
+**Last Updated**: 2026-11-09
 
 **Maintained by**: Mental Food Enthusiasts 🧠✨
