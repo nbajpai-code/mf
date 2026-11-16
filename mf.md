@@ -421,8 +421,37 @@ Look for blog posts, tutorials, and other materials that explain the underlying 
 - **HN Score**: 319 | **Comments**: 67
 
 
+
+### 📄 Recent Research Papers
+#### [BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations](http://arxiv.org/abs/2611.18559v1)
+- **Authors**: Genki Kinoshita, Ko Nishino
+- **Published**: 2026-11-13
+- **Summary**: Learning semantically meaningful human movement representations from 3D pose sequences is essential for human behavior modeling. Existing self-supervised methods derive supervision from artificial ass...
+
+#### [WeightBench: Evaluating Language Models as Weight-Space Programmers](http://arxiv.org/abs/2611.18553v1)
+- **Authors**: Aayush Marasini, Barsat Khadka, Nick Rahimi
+- **Published**: 2026-11-13
+- **Summary**: Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write...
+
+#### [Real-time simulation of scattering in $φ^4$ theory: localized excitation, scalable wave packet preparation, and peak-generating artifacts](http://arxiv.org/abs/2611.18552v1)
+- **Authors**: Boyu Gao, Natalie Klco
+- **Published**: 2026-11-13
+- **Summary**: Probing real-time dynamics is essential for understanding non-perturbative scattering and interactions in quantum field theory. A common challenge in real-time simulation is preparing accurate asympto...
+
+
+### 🔥 Trending Technical Content
+#### [Interpreting claims that a theorem is correct because it was checked in Lean](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)
+- **HN Score**: 241 | **Comments**: 106
+
+#### [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454)
+- **HN Score**: 236 | **Comments**: 62
+
+#### [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8)
+- **HN Score**: 296 | **Comments**: 177
+
+
 ---
 
-**Last Updated**: 2026-02-02
+**Last Updated**: 2026-11-16
 
 **Maintained by**: Mental Food Enthusiasts 🧠✨
