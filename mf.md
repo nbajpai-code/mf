@@ -421,8 +421,34 @@ Look for blog posts, tutorials, and other materials that explain the underlying 
 - **HN Score**: 319 | **Comments**: 67
 
 
+
+### 📄 Recent Research Papers
+#### [Optimal Linear Regression Without a Variance](http://arxiv.org/abs/2611.27983v1)
+- **Authors**: Artin Tajdini, Jasper C. H. Lee, Jonathan Scarlett et al.
+- **Published**: 2026-11-20
+- **Summary**: We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finite conditional $α$-moment $ν$ for some unknown $α\in(1,2)$, and the covariates ma...
+
+#### [Non-penetrating World Models](http://arxiv.org/abs/2611.27963v1)
+- **Authors**: Yuhang Dai, Yinwei Wu, Ziyue Lin et al.
+- **Published**: 2026-11-20
+- **Summary**: We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world m...
+
+#### [Model Carving: Training Transformers That Optimize Their Own Topology](http://arxiv.org/abs/2611.27962v1)
+- **Authors**: Kaden Zheng, Pratyusha Sharma
+- **Published**: 2026-11-20
+- **Summary**: Machine learning has largely kept separate the choice of architecture and the process of training. A classic Transformer, for instance, trains a fixed set of attention and MLP sublayers at every layer...
+
+
+### 🔥 Trending Technical Content
+#### [Kagi Mail (public beta)](https://blog.kagi.com/kagi-mail-public-beta)
+- **HN Score**: 228 | **Comments**: 172
+
+#### [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
+- **HN Score**: 716 | **Comments**: 290
+
+
 ---
 
-**Last Updated**: 2026-02-02
+**Last Updated**: 2026-11-23
 
 **Maintained by**: Mental Food Enthusiasts 🧠✨
